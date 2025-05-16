@@ -1,5 +1,7 @@
-"scripts": {
-  "ng": "ng",
-  "start": "ng serve",
-  "build": "ng build --configuration production"
+{
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build --configuration production"
+  }
 }
