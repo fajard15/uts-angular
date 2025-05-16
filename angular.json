@@ -1,0 +1,13 @@
+"projects": {
+  "uts-angular": {
+    ...
+    "architect": {
+      "build": {
+        "options": {
+          "outputPath": "dist/uts-angular",
+          ...
+        }
+      }
+    }
+  }
+}
